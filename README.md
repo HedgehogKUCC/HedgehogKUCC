@@ -16,15 +16,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Conrad</h1>
 <h3 align="center">I am a Front-End Developer</h3>
 
-<p align="center">📫 How to reach me <i>kucc@kucc.com.tw</i></p>
+<p align="center">📫 How to reach me <i>ccc908925@yahoo.com.tw</i></p>
 
 <h3 align="left">BLOG:</h3>
 <p align="left">
-  <a href="https://medium.com/@ccc908925" target="blank">
+  <a href="https://medium.com/conrad-ku" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ccc908925" height="30" width="40" />
-  </a>
-  <a href="https://hedgehogkucc.github.io/index.html" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/>
   </a>
 </p>
 
