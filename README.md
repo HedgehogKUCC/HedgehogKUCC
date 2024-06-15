@@ -18,7 +18,7 @@ Icons Link: https://github.com/devicons/devicon/tree/master/icons
 <h1 align="center">Hi 👋, I'm Conrad</h1>
 <h3 align="center">I am a Front-End Developer</h3>
 
-<p align="center">📫 How to reach me <i>ccc908925@yahoo.com.tw</i></p>
+<p align="center">📫 How to reach me <i>ccc908925@gmail.com</i></p>
 
 <h3 align="left">BLOG:</h3>
 <p align="left">
