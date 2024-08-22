@@ -20,10 +20,22 @@ Icons Link: https://github.com/devicons/devicon/tree/master/icons
 
 <p align="center">📫 How to reach me <i>ccc908925@gmail.com</i></p>
 
-<h3 align="left">BLOG:</h3>
+<h3 align="left">新 BLOG:</h3>
 <p align="left">
   <a href="https://blog.kucc.site/" target="blank">
-    <img title="Medium" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/StaticSiteGenerators/nextjs.svg" alt="@ccc908925" height="30" width="40" />
+    https://blog.kucc.site/
+  </a>
+</p>
+
+<h3 align="left">舊 BLOG:</h3>
+<p align="left">
+  <a href="https://hedgehogkucc.github.io/" target="blank">
+    https://hedgehogkucc.github.io/
+  </a>
+</p>
+<p align="left">
+  <a href="https://medium.com/conrad-ku" target="blank">
+    https://medium.com/conrad-ku
   </a>
 </p>
 
@@ -34,7 +46,6 @@ Icons Link: https://github.com/devicons/devicon/tree/master/icons
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="gulp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="tailwindcss" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
