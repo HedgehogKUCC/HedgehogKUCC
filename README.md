@@ -22,8 +22,8 @@ Icons Link: https://github.com/devicons/devicon/tree/master/icons
 
 <h3 align="left">BLOG:</h3>
 <p align="left">
-  <a href="https://medium.com/conrad-ku" target="blank">
-    <img title="Medium" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ccc908925" height="30" width="40" />
+  <a href="https://blog.kucc.site/" target="blank">
+    <img title="Medium" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/StaticSiteGenerators/nextjs.svg" alt="@ccc908925" height="30" width="40" />
   </a>
 </p>
 
